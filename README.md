@@ -1,6 +1,5 @@
 
 
-```bash
 # Chatty - AI-Powered Medical Disease Diagnosis Chatbot
 
 Chatty is an intelligent chatbot designed to assist users in diagnosing potential diseases based on user-provided symptoms. Using Natural Language Processing (NLP) and machine learning, Chatty predicts over 50 diseases and provides detailed descriptions along with precautionary advice to guide users toward better health decisions.
