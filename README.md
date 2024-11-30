@@ -39,7 +39,7 @@ pip install -r requirements.txt
 Ensure your dataset is named `dataset.csv` and located in the project directory. Run the following script to train the model:
 
 ```bash
-python train_model.py
+python test.py
 ```
 
 This will save the trained model at the specified path.
